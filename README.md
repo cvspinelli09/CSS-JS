@@ -7,49 +7,48 @@ LEVEL 1: / CSS(1)
          / Javascript(2)
 Depending on which button is click, displays respective content.
 
-LEVEL 2: / CSS Beginner(1a) 
-         / CSS Advanced(1b) 
-         / CSS Responsive(1c)
+LEVEL / 1.1: CSS Beginner
+      / 1.2: CSS Advanced 
+      / 1.3: CSS Responsive
 
-LEVEL 3, 1a:/ Colors 
-            / BMPH 
-            / Text 
-            / Tables
+LEVEL / 1.1.1: Colors 
+      / 1.1.2: BMPH 
+      / 1.1.3: Text 
+      / 1.1.4: Tables
             
-LEVEL 3, 1b:/ Gradients 
-            / Shadows 
-            / Text Effects 
-            / Animations 
-            / Transitions
+LEVEL / 1.2.1: Gradients 
+      / 1.2.2: Shadows 
+      / 1.2.3: Text Effects 
+      / 1.2.4: Animations 
+      / 1.2.5: Transitions
             
-LEVEL 3, 1c:/ Viewport 
-            / Grid View 
-            / Media Queries 
-            / Frameworks
+LEVEL / 1.3.1: Viewport 
+      / 1.3.2: Grid View 
+      / 1.3.3: Media Queries 
+      / 1.3.4: Frameworks 
 
 
-LEVEL 2: / JS Functions(2a) 
-         / JS Objects(2b) 
-         / JS Events-HTML DOM(2c) 
-         / JS Arrays(2d)
+LEVEL / 2.1: JS Functions 
+      / 2.2: JS Objects 
+      / 2.3: JS Events-HTML DOM 
          
-LEVEL 3, 2a: / Parameters 
-             / Invocation 
-             / Call 
-             / Apply 
-             / Closures
+LEVEL / 2.1.1: Parameters 
+      / 2.1.2:  Invocation 
+      / 2.1.3:  Call 
+      / 2.1.4:  Apply 
+      / 2.1.5:  Closures
              
-LEVEL 3, 2b: / Properties 
-             / Methods 
-             / Constructors 
-             / Prototypes 
-             / ECMAScript 5
+LEVEL / 2.2.1: Properties 
+      / 2.2.2: Methods 
+      / 2.2.3: Constructors 
+      / 2.2.4: Prototypes 
+      / 2.2.5: ECMAScript 5
              
-LEVEL 3, 2c: / Document 
-             / Elements 
-             / Event Listener 
-             / Navigation 
-             / Nodes
+LEVEL / 2.3.1: Document 
+      / 2.3.2: Elements 
+      / 2.3.3: Event Listener 
+      / 2.3.4: Navigation 
+      / 2.3.5: Nodes
              
 
 
