@@ -3,10 +3,9 @@
 I want to build a web app using 2 main buttons that will define what content to be displayed:
 
 Buttons CSS, open the webpage content related to CSS tabs w/ 3 levels: 
-LEVEL 1: / CSS(1) 
-         / Javascript(2)
-Depending on which button is click, displays respective content.
-
+LEVEL / 1: CSS 
+      / 2: Javascript
+      
 LEVEL / 1.1: CSS Beginner
       / 1.2: CSS Advanced 
       / 1.3: CSS Responsive
